@@ -5,7 +5,7 @@
 
 ##### -sites = I gave it a list of SNP positions that I specifically wanted to assess. This is not typical.
 ##### GL = 2 --> GATK model (1=samtools)
-##### doGLF = 2 --> beagle log like output
+##### doGLF = 2 --> beagle log like output. This creates input file for beagle: http://www.popgen.dk/angsd/index.php/Genotype_Likelihoods
 ##### doMajorMinor 1 --> infer minor allele
 
 ### 
