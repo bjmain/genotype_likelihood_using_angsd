@@ -8,8 +8,8 @@
 ##### doMajorMinor 1 --> infer minor allele
 
 
-# Estimate covariance matrix and inbreeding coefficients
+### Estimate covariance matrix and inbreeding coefficients
 python pcangsd.py -beagle genolike2.beagle.gz -inbreed 1 -o all -threads 20
 
-# Plot PCA in python with pylab
+### Plot PCA in python with pylab
 See python script pca_plotter.py
